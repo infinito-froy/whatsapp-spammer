@@ -1,1 +1,2 @@
 # whatsapp-spammer
+# requirements.txt
